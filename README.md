@@ -10,7 +10,7 @@ Serveless service to manage the assets
 
 ## Run locally
 To run and test this code locally do:
- 1. Start serving your project locally using `firebase serve --only hosting,functions`
+ 1. Start serving your project locally using `firebase serve --only functions`
  1. Open the app in a browser at `https://localhost:5000`.
 
 
